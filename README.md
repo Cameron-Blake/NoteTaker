@@ -30,7 +30,7 @@
 
   [!Screenshot](../images/screenshot.png)
 
-  https://cameron-blake.github.io/NoteTaker/
+  https://dashboard.heroku.com/apps/frozen-waters-14978
 
   ## License
     
